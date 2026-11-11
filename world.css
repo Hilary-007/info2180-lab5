@@ -1,0 +1,20 @@
+/* TESTING CSS FILE 12345 */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+th, td {
+    border: 1px solid #0252ff;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+th {
+    background-color: #eee;
+}
+
+body{
+    background-color: #a7e5fd;
+}
